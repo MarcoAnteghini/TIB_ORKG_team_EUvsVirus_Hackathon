@@ -1,4 +1,5 @@
 # TIB_ORKG_team_EUvsVirus_Hackathon
+## Team members: Anita Monteverdi, Marco Anteghini, Florian Balate, Shamik Mitra, Eirini Papadaki, and Jennifer D'Souza
 A repository containing all the data and code used for the project in the EUvsVirus Hackathon (team TIB ORKG) 
 
 
